@@ -13,3 +13,7 @@
     <img src="https://skillicons.dev/icons?i=lua" />
   </a>
 </ol>
+<hr>
+<h1>Donations</h1>
+<h2>Please donate me by following the next link:</h2>
+<a href='https://cafecito.app/ic3k1ng' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_6.png 1x, https://cdn.cafecito.app/imgs/buttons/button_6_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_6_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_6.png' alt='Invitame un café en cafecito.app' /></a>
