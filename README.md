@@ -12,9 +12,7 @@
     <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
 <li>¿What languages im knowing now?:</li>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua" />
-  </a>
+  <p>Nothing. But i learn Autoplay Media Studio (AMS) since november 2022 and i started to create programs with it.</p>
 </ol>
 </center>
 <hr>
