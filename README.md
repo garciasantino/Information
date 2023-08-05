@@ -11,13 +11,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
-<li>¿What languages im knowing now?:</li>
-  <p>Nothing. But i learn Autoplay Media Studio (AMS) since november 2022 and i started to create programs with it.</p>
-</ol>
 </center>
 <hr>
 <center>
 <h1>Donations</h1>
-<p>Please donate me by following the next link:</p>
-<a href='https://cafecito.app/ic3k1ng' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_6.png 1x, https://cdn.cafecito.app/imgs/buttons/button_6_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_6_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_6.png' alt='Invitame un café en cafecito.app' /></a>
+<p>Please donate me here:</p>
+<a href="https://ko-fi.com/ssantino"><button>Ko-Fi</button></a>
+<a href="https://paypal.me/garciasantino"><button>Paypal.me</button></a>
+<a href="https://cafecito.app/ic3k1ng"><button>Cafecito</button></a>
 </center>
