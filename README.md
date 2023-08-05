@@ -16,7 +16,7 @@
 <center>
 <h1>Donations</h1>
 <p>Please donate me here:</p>
-<a href="https://ko-fi.com/ssantino"><button>Ko-Fi</button></a>
-<a href="https://paypal.me/garciasantino"><button>Paypal.me</button></a>
-<a href="https://cafecito.app/ic3k1ng"><button>Cafecito</button></a>
+<a href="https://ko-fi.com/ssantino"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png" width="200px" height="30px"></a>
+<a href="https://paypal.me/garciasantino"><img src="https://bournemouth.foodbank.org.uk/wp-content/uploads/sites/64/2021/06/donate-paypal-main-1.png" width="200px" height="30px"></a>
+<a href="https://cafecito.app/ic3k1ng"><img src="https://cdn.cafecito.app/imgs/buttons/button_5.png" width="200px" height="30px"></a>
 </center>
