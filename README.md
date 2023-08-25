@@ -23,6 +23,6 @@
 <hr>
 <center>
 <h1>Go to see my CS 1.6 Servers!!</h1>
-<li>VALORANT MOD / VALOMOD - 45.235.99.2:27036</li>
-<li>PROP HUNT / HNS GMOD - 45.235.99.2:27053</li>
+<li>VALORANT MOD / VALOMOD - IP: 45.235.99.2:27036</li>
+<li>PROP HUNT / HNS GMOD - IP: 45.235.99.2:27053</li>
 </center>
