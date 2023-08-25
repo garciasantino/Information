@@ -22,6 +22,7 @@
 </center>
 <hr>
 <center>
-<h1>Finished clients websites</h1>
-<a href="https://www.axolotlhost.net"><img src="https://www.axolotlhost.net/images/favicon.ico"></a>
+<h1>Go to see my CS 1.6 Servers!!</h1>
+<a href="steam://connect/45.235.99.2:27036"><li>VALORANT MOD / VALOMOD</li></a>
+<a href="steam://connect/45.235.99.2:27053"><li>PROP HUNT / HNS GMOD</li></a>
 </center>
