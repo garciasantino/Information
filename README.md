@@ -1,4 +1,5 @@
 # Information
+<script src="https://gist.github.com/rxaviers/7360908.js"></script>
 <center>
 <p>Hello! I like to help in Game modding projects making sites & installers to apport content on then.</p>
 <p>My languages: Spanish (AR), English (EN)</p>
@@ -23,6 +24,6 @@
 <hr>
 <center>
 <h1>Go to see my CS 1.6 Servers!!</h1>
-<li>VALORANT MOD / VALOMOD - IP: 45.235.99.2:27036</li>
-<li>PROP HUNT / HNS GMOD - IP: 45.235.99.2:27053</li>
+<li>:feelsgood: VALORANT MOD / VALOMOD - IP: 45.235.99.2:27036</li>
+<li>:shipit: PROP HUNT / HNS GMOD - IP: 45.235.99.2:27053</li>
 </center>
