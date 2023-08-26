@@ -24,5 +24,5 @@
 <center>
 <h1>Go to see my CS 1.6 Servers!!</h1>
 <li>:feelsgood: VALORANT MOD / VALOMOD - IP: 45.235.99.2:27036</li>
-<li>:shipit: PROP HUNT / HNS GMOD - IP: 45.235.99.2:27053</li>
+<li>:trollface: PROP HUNT / HNS GMOD - IP: 45.235.99.2:27053</li>
 </center>
