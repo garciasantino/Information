@@ -1,5 +1,4 @@
 # Information
-<script src="https://gist.github.com/rxaviers/7360908.js"></script>
 <center>
 <p>Hello! I like to help in Game modding projects making sites & installers to apport content on then.</p>
 <p>My languages: Spanish (AR), English (EN)</p>
