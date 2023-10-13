@@ -14,6 +14,13 @@
 </center>
 <hr>
 <center>
+<h1><b>My projects</b></h1>
+<ol>
+<li>GoldModding - A Valve GoldSrc modding wiki</li>
+<li>CSResources - Map recopilations, packs and more</li>
+<li>GSCheap - Steam cheap-copy properties for GSClient</li>
+</center>
+<center>
 <h1>Donations</h1>
 <p>:shipit: Please donate me here:</p>
 <a href="https://ko-fi.com/ssantino"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png" width="200px" height="30px"></a>
