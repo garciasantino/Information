@@ -30,5 +30,5 @@
 <hr>
 <center>
 <h1>Go to see my CS 1.6 Servers!!</h1>
-<li>:feelsgood: AWP MODE (ES): 45.235.99.2:27036</li>
+<li>:feelsgood: AWP MODE (ES): <a href="steam://connect/45.235.99.2:27036">45.235.99.2:27036</a></li>
 </center>
