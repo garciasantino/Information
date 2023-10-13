@@ -15,10 +15,9 @@
 <hr>
 <center>
 <h1><b>My projects</b></h1>
-<ol>
-<li>GoldModding - A Valve GoldSrc modding wiki</li>
-<li>CSResources - Map recopilations, packs and more</li>
-<li>GSCheap - Steam cheap-copy properties for GSClient</li>
+<a href="https://goldmodding.iceiy.com"><li>GoldModding - A Valve GoldSrc modding wiki</li></a>
+<a href="https://csresources.rf.gd"><li>CSResources - Map recopilations, packs and more</li></a>
+<a href="https://gscheap.zya.me"><li>GSCheap - Steam cheap-copy properties for GSClient</li></a>
 </center>
 <center>
 <h1>Donations</h1>
