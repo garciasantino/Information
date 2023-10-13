@@ -16,9 +16,9 @@
 <center>
 <h1><b>My projects</b></h1>
 <a href="https://goldmodding.iceiy.com"><li>GoldModding - A Valve GoldSrc engine modding wiki</li></a>
-<a href="https://csresources.rf.gd"><li>CSResources - Map recopilations, packs and more</li></a>
+<a href="https://csresources.rf.gd"><li>CSResources - Map recopilations, packs and more for CS 1.6</li></a>
 <a href="http://gscheap.zya.me"><li>GSCheap - Steam cheap-copy properties for GSClient</li></a>
-<a href=""><li>DoomClassics - An online playable DOOM clone games website (Coming soon)</li></a>
+<a href=""><li>DoomClassics - An online playable DOOM clone games site</li></a>
 </center>
 <center>
 <h1>Donations</h1>
